@@ -43,3 +43,6 @@ vignettes/*.pdf
 !/latex/*.tex
 !/latex/*.bib
 !/latex/figs/
+
+
+R/ignored/
